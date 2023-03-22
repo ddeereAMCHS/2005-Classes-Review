@@ -7,7 +7,7 @@
       "input": "John Deere\r\n18\r\n100010412\r\n12\r\n4.0\r\nWill Smith\r\n15\r\n100012345\r\n10\r\n2.8",
       "output": "John Deere, 100010412\r\ntrue\r\ntrue\r\nWill Smith, 100012345\r\nfalse\r\nfalse",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "John Deere\r\n18\r\n100010412\r\n10\r\n3.0\r\nWill Smith\r\n15\r\n100012345\r\n12\r\n2.8",
       "output": "John Deere, 100010412\r\ntrue\r\nfalse\r\nWill Smith, 100012345\r\nfalse\r\ntrue",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
