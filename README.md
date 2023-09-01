@@ -1,6 +1,6 @@
 # Classes Review
 
-## Due: Tue 9/6 at 11:59 PM
+## Due: Tue 9/5 at 11:59 PM
 
 - Create a program called `Student.java`
 - The Student class should have the following data members
